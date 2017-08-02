@@ -23,7 +23,7 @@ Stats to be taken into account:
 * Total wins in the last 10 games (home/away)
 * Total draws in the last 10 games (home/away)
 * Total losses in the last 10 games (home/away)
-* League points (home/away)
+* League points (home/away) should be normalized
 * Home ground first team (shall be a boolean 0 or 1)
 * Home ground second team (shall be a boolean 0 or 1)
-* Clean sheets (home/away)
+* Clean sheets (home/away) should be normalized
