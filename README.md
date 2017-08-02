@@ -8,6 +8,7 @@ Good sites for football statistics
 zeroazero
 http://www.football-data.co.uk/portugalm.php
 https://www.statbunker.com/
+http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf
 
 The how it is going to be able to predict is by the following way:
 There is going to be data provided in csv format, from previous years. The optimal amount should be more than 10 seasons of stats.
