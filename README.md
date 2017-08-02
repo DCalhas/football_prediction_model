@@ -4,12 +4,14 @@ Model that is able to predict the result between two teams
 The objective of this project is to construct different models, that are trained for different competitions,
 being the first competition Primeira Liga Portuguesa.
 
-Good sites for football statistics
-zeroazero
-http://www.football-data.co.uk/portugalm.php
-https://www.statbunker.com/
-http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf
-http://pytorch.org/
+Good sites for football statistics:
+1. zeroazero
+2. http://www.football-data.co.uk/portugalm.php
+3. https://www.statbunker.com/
+4. http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf
+5. http://pytorch.org/
+
+*for presentation: https://jupyter.org/
 
 The how it is going to be able to predict is by the following way:
 There is going to be data provided in csv format, from previous years. The optimal amount should be more than 10 seasons of stats.
