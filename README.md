@@ -10,8 +10,8 @@ http://www.football-data.co.uk/portugalm.php
 https://www.statbunker.com/
 
 The how it is going to be able to predict is by the following way:
-* There is going to be data provided in csv format, from previous years. The optimal amount should be more than 10 seasons of stats.
-* Stats to be taken into account:
+There is going to be data provided in csv format, from previous years. The optimal amount should be more than 10 seasons of stats.
+Stats to be taken into account:
 * Transfer money spent in the current year (home/away)
 * The market value of the team (this can be found in the transfer market site) (home/away)
 * The league rank, current position prior to the game (home/away)
