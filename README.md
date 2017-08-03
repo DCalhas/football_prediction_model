@@ -11,6 +11,8 @@ Good sites for football statistics:
 4. http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf
 5. http://pytorch.org/
 
+__Maybe using the data from the game Football Manager is not a bad idea__
+
 For presentation: https://jupyter.org/
 
 The how it is going to be able to predict is by the following way:
