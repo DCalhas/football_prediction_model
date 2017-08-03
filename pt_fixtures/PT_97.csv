@@ -1,0 +1,306 @@
+Farense,Sp Lisbon,0,0
+Guimaraes,Academica,1,0
+Belenenses,Sp Braga,2,2
+Benfica,Campomaiorense,4,0
+Boavista,Setubal,2,1
+Desp. Chaves,Rio Ave,0,2
+Maritimo,Est Amadora,2,1
+Salgueiros,Leca,0,0
+Varzim,Porto,0,2
+Rio Ave,Guimaraes,1,2
+Porto,Belenenses,2,0
+Academica,Boavista,2,0
+Campomaiorense,Salgueiros,0,0
+Est Amadora,Varzim,0,0
+Leca,Maritimo,1,1
+Setubal,Benfica,1,0
+Sp Braga,Farense,2,2
+Sp Lisbon,Desp. Chaves,2,0
+Desp. Chaves,Sp Braga,1,2
+Guimaraes,Sp Lisbon,1,0
+Benfica,Academica,1,1
+Porto,Est Amadora,4,0
+Belenenses,Farense,0,3
+Boavista,Rio Ave,1,2
+Maritimo,Campomaiorense,2,1
+Salgueiros,Setubal,1,1
+Varzim,Leca,1,0
+Academica,Salgueiros,2,1
+Campomaiorense,Varzim,1,1
+Farense,Desp. Chaves,1,0
+Rio Ave,Benfica,3,1
+Est Amadora,Belenenses,1,1
+Setubal,Maritimo,1,1
+Sp Braga,Guimaraes,3,2
+Leca,Porto,2,3
+Sp Lisbon,Boavista,1,0
+Boavista,Sp Braga,0,0
+Guimaraes,Farense,2,0
+Benfica,Sp Lisbon,0,0
+Porto,Campomaiorense,3,0
+Belenenses,Desp. Chaves,0,1
+Est Amadora,Leca,2,1
+Maritimo,Academica,4,1
+Salgueiros,Rio Ave,5,1
+Varzim,Setubal,1,0
+Sp Braga,Benfica,1,1
+Academica,Varzim,1,1
+Campomaiorense,Est Amadora,2,0
+Desp. Chaves,Guimaraes,1,2
+Leca,Belenenses,1,1
+Rio Ave,Maritimo,2,0
+Sp Lisbon,Salgueiros,2,1
+Farense,Boavista,0,0
+Setubal,Porto,1,1
+Maritimo,Sp Lisbon,0,1
+Boavista,Desp. Chaves,2,1
+Porto,Academica,2,1
+Belenenses,Guimaraes,1,0
+Benfica,Farense,3,1
+Est Amadora,Setubal,1,0
+Leca,Campomaiorense,1,0
+Varzim,Rio Ave,1,3
+Salgueiros,Sp Braga,1,0
+Rio Ave,Porto,0,0
+Sp Braga,Maritimo,3,1
+Desp. Chaves,Benfica,0,1
+Sp Lisbon,Varzim,1,1
+Academica,Est Amadora,0,1
+Campomaiorense,Belenenses,2,1
+Farense,Salgueiros,0,0
+Guimaraes,Boavista,1,1
+Setubal,Leca,2,1
+Maritimo,Farense,1,1
+Porto,Sp Lisbon,1,1
+Belenenses,Boavista,0,0
+Campomaiorense,Setubal,2,1
+Est Amadora,Rio Ave,1,2
+Leca,Academica,1,0
+Salgueiros,Desp. Chaves,2,0
+Varzim,Sp Braga,1,0
+Benfica,Guimaraes,1,0
+Boavista,Benfica,0,0
+Sp Braga,Porto,1,2
+Sp Lisbon,Est Amadora,2,2
+Academica,Campomaiorense,1,1
+Desp. Chaves,Maritimo,1,0
+Farense,Varzim,1,0
+Guimaraes,Salgueiros,3,0
+Rio Ave,Leca,2,2
+Setubal,Belenenses,0,0
+Belenenses,Benfica,1,2
+Campomaiorense,Rio Ave,4,1
+Est Amadora,Sp Braga,1,0
+Maritimo,Guimaraes,0,1
+Salgueiros,Boavista,1,1
+Setubal,Academica,0,1
+Varzim,Desp. Chaves,1,1
+Leca,Sp Lisbon,1,0
+Porto,Farense,5,2
+Desp. Chaves,Porto,2,2
+Sp Braga,Leca,3,1
+Boavista,Maritimo,0,1
+Guimaraes,Varzim,5,0
+Sp Lisbon,Campomaiorense,2,0
+Academica,Belenenses,0,0
+Benfica,Salgueiros,2,2
+Farense,Est Amadora,1,1
+Rio Ave,Setubal,3,0
+Maritimo,Benfica,1,0
+Academica,Rio Ave,0,0
+Belenenses,Salgueiros,1,2
+Campomaiorense,Sp Braga,4,0
+Est Amadora,Desp. Chaves,4,1
+Leca,Farense,2,1
+Porto,Guimaraes,1,0
+Varzim,Boavista,0,0
+Setubal,Sp Lisbon,2,0
+Salgueiros,Maritimo,2,0
+Sp Braga,Setubal,2,2
+Benfica,Varzim,4,0
+Desp. Chaves,Leca,0,1
+Farense,Campomaiorense,2,2
+Guimaraes,Est Amadora,1,0
+Rio Ave,Belenenses,3,0
+Sp Lisbon,Academica,1,0
+Boavista,Porto,3,4
+Academica,Sp Braga,2,2
+Porto,Benfica,2,0
+Belenenses,Maritimo,0,2
+Campomaiorense,Desp. Chaves,2,1
+Est Amadora,Boavista,1,2
+Leca,Guimaraes,1,0
+Setubal,Farense,4,1
+Varzim,Salgueiros,0,2
+Rio Ave,Sp Lisbon,0,0
+Salgueiros,Porto,1,3
+Belenenses,Sp Lisbon,0,4
+Boavista,Leca,2,0
+Sp Braga,Rio Ave,1,0
+Benfica,Est Amadora,2,2
+Desp. Chaves,Setubal,1,3
+Farense,Academica,0,0
+Guimaraes,Campomaiorense,2,1
+Maritimo,Varzim,2,1
+Academica,Desp. Chaves,1,2
+Campomaiorense,Boavista,2,2
+Est Amadora,Salgueiros,1,0
+Leca,Benfica,1,2
+Porto,Maritimo,2,1
+Rio Ave,Farense,0,3
+Setubal,Guimaraes,0,0
+Varzim,Belenenses,2,1
+Sp Lisbon,Sp Braga,1,1
+Campomaiorense,Benfica,1,2
+Academica,Guimaraes,2,1
+Est Amadora,Maritimo,1,1
+Leca,Salgueiros,3,0
+Porto,Varzim,4,3
+Rio Ave,Desp. Chaves,1,0
+Setubal,Boavista,1,2
+Sp Braga,Belenenses,1,1
+Sp Lisbon,Farense,3,2
+Desp. Chaves,Sp Lisbon,3,2
+Belenenses,Porto,1,0
+Boavista,Academica,6,0
+Farense,Sp Braga,1,1
+Benfica,Setubal,2,0
+Guimaraes,Rio Ave,0,0
+Maritimo,Leca,2,0
+Salgueiros,Campomaiorense,5,2
+Varzim,Est Amadora,2,2
+Academica,Benfica,1,2
+Campomaiorense,Maritimo,2,1
+Farense,Belenenses,3,1
+Leca,Varzim,1,0
+Rio Ave,Boavista,1,1
+Setubal,Salgueiros,1,3
+Sp Braga,Desp. Chaves,5,0
+Sp Lisbon,Guimaraes,1,1
+Est Amadora,Porto,2,1
+Boavista,Sp Lisbon,1,0
+Guimaraes,Sp Braga,1,0
+Belenenses,Est Amadora,0,2
+Benfica,Rio Ave,2,1
+Desp. Chaves,Farense,2,2
+Maritimo,Setubal,1,0
+Porto,Leca,3,1
+Salgueiros,Academica,0,1
+Varzim,Campomaiorense,3,0
+Campomaiorense,Porto,2,2
+Sp Braga,Boavista,1,2
+Academica,Maritimo,0,0
+Desp. Chaves,Belenenses,1,0
+Farense,Guimaraes,2,0
+Leca,Est Amadora,0,4
+Rio Ave,Salgueiros,1,1
+Setubal,Varzim,1,1
+Sp Lisbon,Benfica,1,4
+Salgueiros,Sp Lisbon,0,2
+Guimaraes,Desp. Chaves,5,1
+Belenenses,Leca,0,1
+Benfica,Sp Braga,3,0
+Boavista,Farense,2,2
+Est Amadora,Campomaiorense,2,1
+Maritimo,Rio Ave,3,2
+Porto,Setubal,1,0
+Varzim,Academica,1,1
+Academica,Porto,0,1
+Campomaiorense,Leca,4,0
+Desp. Chaves,Boavista,1,3
+Farense,Benfica,1,1
+Guimaraes,Belenenses,2,2
+Rio Ave,Varzim,0,0
+Setubal,Est Amadora,2,1
+Sp Braga,Salgueiros,0,2
+Sp Lisbon,Maritimo,1,1
+Varzim,Sp Lisbon,0,1
+Boavista,Guimaraes,0,1
+Porto,Rio Ave,2,0
+Belenenses,Campomaiorense,0,1
+Benfica,Desp. Chaves,3,1
+Est Amadora,Academica,1,0
+Leca,Setubal,1,3
+Maritimo,Sp Braga,1,1
+Salgueiros,Farense,4,1
+Academica,Leca,1,1
+Boavista,Belenenses,4,0
+Sp Lisbon,Porto,2,0
+Desp. Chaves,Salgueiros,0,0
+Farense,Maritimo,0,2
+Guimaraes,Benfica,0,1
+Rio Ave,Est Amadora,1,0
+Setubal,Campomaiorense,2,1
+Sp Braga,Varzim,3,1
+Benfica,Boavista,1,2
+Belenenses,Setubal,1,0
+Campomaiorense,Academica,1,2
+Est Amadora,Sp Lisbon,2,1
+Leca,Rio Ave,2,1
+Maritimo,Desp. Chaves,1,0
+Porto,Sp Braga,4,0
+Salgueiros,Guimaraes,0,0
+Varzim,Farense,1,0
+Farense,Porto,1,2
+Boavista,Salgueiros,3,0
+Sp Braga,Est Amadora,1,1
+Sp Lisbon,Leca,2,0
+Academica,Setubal,2,0
+Benfica,Belenenses,2,1
+Desp. Chaves,Varzim,2,1
+Guimaraes,Maritimo,0,0
+Rio Ave,Campomaiorense,1,1
+Campomaiorense,Sp Lisbon,3,5
+Belenenses,Academica,2,0
+Est Amadora,Farense,2,1
+Leca,Sp Braga,0,0
+Maritimo,Boavista,1,0
+Porto,Desp. Chaves,3,1
+Salgueiros,Benfica,0,2
+Setubal,Rio Ave,1,0
+Varzim,Guimaraes,1,2
+Sp Lisbon,Setubal,2,1
+Boavista,Varzim,2,0
+Guimaraes,Porto,0,1
+Benfica,Maritimo,3,1
+Desp. Chaves,Est Amadora,2,0
+Farense,Leca,1,1
+Rio Ave,Academica,3,0
+Salgueiros,Belenenses,1,1
+Sp Braga,Campomaiorense,2,1
+Maritimo,Salgueiros,1,4
+Varzim,Benfica,0,0
+Belenenses,Rio Ave,2,4
+Campomaiorense,Farense,5,2
+Est Amadora,Guimaraes,0,1
+Leca,Desp. Chaves,0,1
+Porto,Boavista,3,2
+Setubal,Sp Braga,5,1
+Academica,Sp Lisbon,1,1
+Maritimo,Belenenses,2,0
+Benfica,Porto,3,0
+Boavista,Est Amadora,4,0
+Desp. Chaves,Campomaiorense,1,0
+Farense,Setubal,2,0
+Guimaraes,Leca,0,0
+Salgueiros,Varzim,3,1
+Sp Braga,Academica,3,2
+Sp Lisbon,Rio Ave,2,2
+Sp Lisbon,Belenenses,1,0
+Academica,Farense,1,0
+Campomaiorense,Guimaraes,2,3
+Leca,Boavista,0,3
+Porto,Salgueiros,7,2
+Rio Ave,Sp Braga,0,4
+Setubal,Desp. Chaves,1,2
+Varzim,Maritimo,0,4
+Est Amadora,Benfica,2,0
+Belenenses,Varzim,1,0
+Benfica,Leca,7,1
+Boavista,Campomaiorense,1,2
+Desp. Chaves,Academica,0,0
+Farense,Rio Ave,1,0
+Guimaraes,Setubal,2,1
+Maritimo,Porto,3,2
+Salgueiros,Est Amadora,2,1
+Sp Braga,Sp Lisbon,2,0

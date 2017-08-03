@@ -1,0 +1,306 @@
+Boavista,Beira Mar,3,0
+Sp Braga,Leiria,0,0
+Varzim,Benfica,2,2
+Pacos Ferreira,Belenenses,3,1
+Salgueiros,Farense,0,2
+Sp Lisbon,Porto,1,0
+Guimaraes,Gil Vicente,0,2
+Maritimo,Setubal,3,1
+Belenenses,Sp Lisbon,3,0
+Gil Vicente,Sp Braga,2,1
+Alverca,Pacos Ferreira,1,0
+Beira Mar,Maritimo,2,0
+Porto,Boavista,4,1
+Benfica,Salgueiros,2,0
+Leiria,Santa Clara,2,2
+Setubal,Varzim,2,0
+Farense,Guimaraes,0,1
+Benfica,Setubal,3,2
+Santa Clara,Gil Vicente,0,0
+Sp Lisbon,Alverca,0,1
+Boavista,Belenenses,2,0
+Pacos Ferreira,Leiria,1,2
+Sp Braga,Farense,4,0
+Varzim,Beira Mar,1,1
+Maritimo,Porto,1,3
+Salgueiros,Guimaraes,1,3
+Santa Clara,Alverca,2,1
+Alverca,Boavista,1,2
+Belenenses,Maritimo,0,1
+Leiria,Sp Lisbon,1,1
+Beira Mar,Benfica,3,3
+Porto,Varzim,3,0
+Gil Vicente,Pacos Ferreira,1,1
+Farense,Santa Clara,1,0
+Setubal,Salgueiros,3,0
+Guimaraes,Sp Braga,2,1
+Varzim,Belenenses,1,5
+Boavista,Leiria,1,0
+Benfica,Porto,0,0
+Maritimo,Alverca,5,0
+Pacos Ferreira,Farense,1,1
+Salgueiros,Sp Braga,1,0
+Santa Clara,Guimaraes,2,0
+Sp Lisbon,Gil Vicente,3,1
+Setubal,Beira Mar,4,1
+Sp Braga,Santa Clara,6,0
+Porto,Setubal,3,0
+Gil Vicente,Boavista,0,3
+Alverca,Varzim,4,2
+Beira Mar,Salgueiros,1,1
+Belenenses,Benfica,1,1
+Farense,Sp Lisbon,1,3
+Leiria,Maritimo,2,0
+Guimaraes,Pacos Ferreira,1,1
+Setubal,Belenenses,0,1
+Beira Mar,Porto,2,0
+Pacos Ferreira,Sp Braga,0,0
+Boavista,Farense,1,1
+Benfica,Alverca,3,2
+Salgueiros,Santa Clara,2,1
+Varzim,Leiria,2,0
+Maritimo,Gil Vicente,2,1
+Sp Lisbon,Guimaraes,5,0
+Santa Clara,Boavista,0,2
+Guimaraes,Boavista,2,0
+Porto,Salgueiros,3,0
+Santa Clara,Pacos Ferreira,1,1
+Sp Braga,Sp Lisbon,2,1
+Leiria,Benfica,1,1
+Alverca,Setubal,1,1
+Gil Vicente,Varzim,1,0
+Farense,Maritimo,2,1
+Belenenses,Beira Mar,1,5
+Maritimo,Guimaraes,2,0
+Boavista,Sp Braga,3,0
+Porto,Belenenses,1,2
+Benfica,Gil Vicente,2,0
+Beira Mar,Alverca,6,2
+Salgueiros,Pacos Ferreira,3,2
+Varzim,Farense,2,0
+Setubal,Leiria,1,1
+Sp Lisbon,Santa Clara,0,0
+Farense,Benfica,0,2
+Pacos Ferreira,Sp Lisbon,0,6
+Sp Braga,Maritimo,1,0
+Guimaraes,Varzim,4,0
+Alverca,Porto,0,1
+Gil Vicente,Setubal,2,1
+Leiria,Beira Mar,4,1
+Belenenses,Salgueiros,1,0
+Varzim,Sp Braga,0,0
+Benfica,Guimaraes,0,0
+Setubal,Farense,2,0
+Beira Mar,Gil Vicente,2,2
+Belenenses,Alverca,1,1
+Porto,Leiria,2,1
+Maritimo,Santa Clara,1,0
+Salgueiros,Sp Lisbon,1,5
+Boavista,Pacos Ferreira,5,0
+Guimaraes,Setubal,0,0
+Alverca,Salgueiros,1,2
+Sp Braga,Benfica,0,1
+Gil Vicente,Porto,2,5
+Pacos Ferreira,Maritimo,2,1
+Santa Clara,Varzim,1,0
+Farense,Beira Mar,1,0
+Leiria,Belenenses,3,0
+Sp Lisbon,Boavista,2,0
+Porto,Farense,2,0
+Maritimo,Sp Lisbon,0,2
+Salgueiros,Boavista,1,1
+Alverca,Leiria,1,1
+Beira Mar,Guimaraes,0,0
+Belenenses,Gil Vicente,1,0
+Benfica,Santa Clara,2,1
+Varzim,Pacos Ferreira,0,3
+Setubal,Sp Braga,0,0
+Farense,Belenenses,2,2
+Pacos Ferreira,Benfica,2,1
+Sp Braga,Beira Mar,3,2
+Guimaraes,Porto,2,0
+Boavista,Maritimo,0,1
+Santa Clara,Setubal,1,0
+Sp Lisbon,Varzim,4,0
+Leiria,Salgueiros,7,0
+Alverca,Farense,1,0
+Beira Mar,Santa Clara,0,1
+Belenenses,Guimaraes,2,1
+Porto,Sp Braga,0,0
+Benfica,Sp Lisbon,2,2
+Salgueiros,Maritimo,2,1
+Leiria,Gil Vicente,2,1
+Varzim,Boavista,0,2
+Setubal,Pacos Ferreira,1,3
+Boavista,Benfica,1,0
+Maritimo,Varzim,1,1
+Pacos Ferreira,Beira Mar,0,0
+Salgueiros,Gil Vicente,3,0
+Santa Clara,Porto,2,1
+Sp Braga,Belenenses,2,3
+Farense,Leiria,0,1
+Sp Lisbon,Setubal,1,0
+Guimaraes,Alverca,2,0
+Alverca,Sp Braga,0,3
+Beira Mar,Sp Lisbon,1,2
+Benfica,Maritimo,1,1
+Leiria,Guimaraes,2,1
+Belenenses,Santa Clara,1,1
+Porto,Pacos Ferreira,1,0
+Gil Vicente,Farense,3,1
+Varzim,Salgueiros,0,0
+Setubal,Boavista,1,1
+Gil Vicente,Guimaraes,2,1
+Porto,Sp Lisbon,2,2
+Benfica,Varzim,3,2
+Farense,Salgueiros,2,1
+Alverca,Santa Clara,3,1
+Belenenses,Pacos Ferreira,1,2
+Leiria,Sp Braga,3,1
+Setubal,Maritimo,0,1
+Beira Mar,Boavista,0,3
+Guimaraes,Farense,3,1
+Salgueiros,Benfica,1,4
+Boavista,Porto,2,0
+Maritimo,Beira Mar,3,1
+Pacos Ferreira,Alverca,2,2
+Santa Clara,Leiria,1,1
+Sp Lisbon,Belenenses,2,0
+Varzim,Setubal,2,1
+Sp Braga,Gil Vicente,1,0
+Alverca,Sp Lisbon,1,3
+Porto,Maritimo,2,1
+Guimaraes,Salgueiros,3,0
+Beira Mar,Varzim,4,0
+Belenenses,Boavista,0,2
+Gil Vicente,Santa Clara,1,3
+Farense,Sp Braga,2,2
+Leiria,Pacos Ferreira,2,1
+Setubal,Benfica,1,1
+Boavista,Alverca,2,0
+Sp Braga,Guimaraes,0,0
+Sp Lisbon,Leiria,4,1
+Maritimo,Belenenses,0,2
+Pacos Ferreira,Gil Vicente,2,0
+Benfica,Beira Mar,4,1
+Salgueiros,Setubal,0,2
+Santa Clara,Farense,2,0
+Varzim,Porto,0,1
+Guimaraes,Santa Clara,1,0
+Alverca,Maritimo,0,2
+Beira Mar,Setubal,1,0
+Belenenses,Varzim,3,2
+Sp Braga,Salgueiros,0,0
+Leiria,Boavista,0,1
+Porto,Benfica,3,2
+Gil Vicente,Sp Lisbon,1,1
+Farense,Pacos Ferreira,1,1
+Boavista,Gil Vicente,0,0
+Setubal,Porto,1,4
+Pacos Ferreira,Guimaraes,0,0
+Benfica,Belenenses,2,1
+Salgueiros,Beira Mar,1,1
+Santa Clara,Sp Braga,1,0
+Sp Lisbon,Farense,1,0
+Varzim,Alverca,1,0
+Maritimo,Leiria,3,0
+Guimaraes,Sp Lisbon,0,1
+Porto,Beira Mar,2,3
+Farense,Boavista,1,2
+Alverca,Benfica,1,3
+Gil Vicente,Maritimo,1,1
+Santa Clara,Salgueiros,1,1
+Leiria,Varzim,0,1
+Belenenses,Setubal,1,1
+Sp Braga,Pacos Ferreira,1,0
+Benfica,Leiria,0,2
+Sp Lisbon,Sp Braga,2,2
+Boavista,Guimaraes,0,0
+Maritimo,Farense,1,0
+Pacos Ferreira,Santa Clara,2,1
+Salgueiros,Porto,0,3
+Varzim,Gil Vicente,2,0
+Setubal,Alverca,2,1
+Beira Mar,Belenenses,0,3
+Belenenses,Porto,3,0
+Gil Vicente,Benfica,0,2
+Sp Braga,Boavista,0,2
+Alverca,Beira Mar,2,0
+Pacos Ferreira,Salgueiros,6,0
+Santa Clara,Sp Lisbon,0,3
+Farense,Varzim,1,1
+Leiria,Setubal,0,0
+Guimaraes,Maritimo,1,3
+Salgueiros,Belenenses,1,2
+Beira Mar,Leiria,2,1
+Boavista,Santa Clara,2,0
+Porto,Alverca,0,0
+Maritimo,Sp Braga,4,1
+Sp Lisbon,Pacos Ferreira,3,0
+Varzim,Guimaraes,0,0
+Setubal,Gil Vicente,3,2
+Benfica,Farense,5,0
+Gil Vicente,Beira Mar,2,1
+Sp Lisbon,Salgueiros,2,0
+Guimaraes,Benfica,1,4
+Pacos Ferreira,Boavista,0,1
+Santa Clara,Maritimo,0,0
+Sp Braga,Varzim,2,0
+Farense,Setubal,2,2
+Leiria,Porto,1,1
+Alverca,Belenenses,0,1
+Beira Mar,Farense,2,1
+Boavista,Sp Lisbon,0,0
+Porto,Gil Vicente,2,1
+Maritimo,Pacos Ferreira,0,1
+Benfica,Sp Braga,1,1
+Salgueiros,Alverca,2,1
+Varzim,Santa Clara,1,0
+Setubal,Guimaraes,1,0
+Belenenses,Leiria,1,0
+Gil Vicente,Alverca,2,2
+Boavista,Salgueiros,2,1
+Santa Clara,Benfica,0,0
+Farense,Porto,0,3
+Gil Vicente,Belenenses,3,2
+Pacos Ferreira,Varzim,0,0
+Sp Lisbon,Maritimo,4,0
+Leiria,Alverca,2,1
+Guimaraes,Beira Mar,0,0
+Sp Braga,Setubal,1,1
+Maritimo,Boavista,0,0
+Porto,Guimaraes,3,0
+Varzim,Sp Lisbon,1,3
+Alverca,Gil Vicente,1,4
+Beira Mar,Sp Braga,4,2
+Belenenses,Farense,4,0
+Benfica,Pacos Ferreira,4,0
+Salgueiros,Leiria,0,1
+Setubal,Santa Clara,3,2
+Guimaraes,Belenenses,2,1
+Boavista,Varzim,1,2
+Sp Braga,Porto,0,4
+Gil Vicente,Leiria,0,0
+Pacos Ferreira,Setubal,1,0
+Santa Clara,Beira Mar,0,0
+Farense,Alverca,2,1
+Sp Lisbon,Benfica,1,1
+Maritimo,Salgueiros,4,0
+Belenenses,Sp Braga,1,1
+Porto,Santa Clara,5,3
+Setubal,Sp Lisbon,2,2
+Beira Mar,Pacos Ferreira,0,2
+Gil Vicente,Salgueiros,3,2
+Benfica,Boavista,2,1
+Leiria,Farense,4,1
+Varzim,Maritimo,0,1
+Alverca,Guimaraes,3,2
+Boavista,Setubal,4,1
+Maritimo,Benfica,3,2
+Pacos Ferreira,Porto,1,2
+Salgueiros,Varzim,2,1
+Santa Clara,Belenenses,2,3
+Sp Braga,Alverca,5,3
+Farense,Gil Vicente,3,2
+Sp Lisbon,Beira Mar,2,1
+Guimaraes,Leiria,2,4

@@ -1,0 +1,306 @@
+Tondela,Sp Lisbon,1,2
+Belenenses,Rio Ave,3,3
+Porto,Guimaraes,3,0
+Benfica,Estoril,4,0
+Moreirense,Arouca,0,2
+Setubal,Boavista,2,2
+Sp Braga,Nacional,2,1
+Uniao Madeira,Maritimo,2,1
+Pacos Ferreira,Academica,1,0
+Rio Ave,Sp Braga,1,0
+Maritimo,Porto,1,1
+Sp Lisbon,Pacos Ferreira,1,1
+Arouca,Benfica,1,0
+Boavista,Tondela,1,0
+Estoril,Moreirense,2,0
+Guimaraes,Belenenses,1,1
+Nacional,Uniao Madeira,1,0
+Academica,Setubal,0,4
+Benfica,Moreirense,3,2
+Porto,Estoril,2,0
+Setubal,Rio Ave,2,2
+Academica,Sp Lisbon,1,3
+Pacos Ferreira,Arouca,1,1
+Sp Braga,Boavista,4,0
+Tondela,Nacional,1,0
+Belenenses,Maritimo,1,1
+Uniao Madeira,Guimaraes,0,0
+Benfica,Belenenses,6,0
+Arouca,Porto,1,3
+Estoril,Sp Braga,1,0
+Guimaraes,Tondela,1,0
+Maritimo,Setubal,5,2
+Moreirense,Uniao Madeira,0,0
+Nacional,Academica,2,0
+Rio Ave,Sp Lisbon,1,2
+Boavista,Pacos Ferreira,0,1
+Setubal,Guimaraes,2,2
+Pacos Ferreira,Rio Ave,0,3
+Tondela,Estoril,0,1
+Academica,Boavista,0,2
+Porto,Benfica,1,0
+Uniao Madeira,Arouca,0,0
+Belenenses,Moreirense,2,0
+Sp Braga,Maritimo,5,1
+Sp Lisbon,Nacional,1,0
+Moreirense,Porto,2,2
+Benfica,Pacos Ferreira,3,0
+Boavista,Sp Lisbon,0,0
+Arouca,Belenenses,2,2
+Estoril,Uniao Madeira,2,1
+Guimaraes,Sp Braga,0,1
+Maritimo,Tondela,1,0
+Nacional,Setubal,1,1
+Rio Ave,Academica,1,0
+Setubal,Estoril,1,0
+Academica,Maritimo,1,0
+Pacos Ferreira,Nacional,3,1
+Rio Ave,Boavista,1,0
+Tondela,Moreirense,1,1
+Porto,Belenenses,4,0
+Sp Braga,Arouca,0,0
+Sp Lisbon,Guimaraes,5,1
+Nacional,Boavista,0,0
+Estoril,Rio Ave,2,2
+Guimaraes,Academica,1,1
+Maritimo,Pacos Ferreira,0,2
+Arouca,Tondela,1,1
+Benfica,Sp Lisbon,0,3
+Moreirense,Setubal,0,2
+Porto,Sp Braga,0,0
+Belenenses,Uniao Madeira,1,0
+Tondela,Benfica,0,4
+Sp Braga,Belenenses,4,0
+Sp Lisbon,Estoril,1,0
+Academica,Moreirense,1,1
+Boavista,Maritimo,0,1
+Rio Ave,Nacional,1,0
+Setubal,Arouca,0,0
+Pacos Ferreira,Guimaraes,0,1
+Estoril,Academica,1,1
+Guimaraes,Nacional,0,1
+Arouca,Sp Lisbon,0,1
+Benfica,Boavista,2,0
+Maritimo,Rio Ave,3,2
+Moreirense,Pacos Ferreira,2,0
+Porto,Setubal,2,0
+Belenenses,Tondela,2,1
+Uniao Madeira,Sp Braga,0,1
+Nacional,Maritimo,3,1
+Boavista,Guimaraes,1,2
+Setubal,Uniao Madeira,2,2
+Tondela,Porto,0,1
+Academica,Arouca,1,1
+Pacos Ferreira,Estoril,2,0
+Rio Ave,Moreirense,0,1
+Sp Braga,Benfica,0,2
+Sp Lisbon,Belenenses,1,0
+Uniao Madeira,Porto,0,4
+Benfica,Academica,3,0
+Belenenses,Setubal,0,3
+Maritimo,Sp Lisbon,0,1
+Porto,Pacos Ferreira,2,1
+Arouca,Boavista,3,2
+Estoril,Nacional,1,1
+Moreirense,Sp Braga,0,0
+Uniao Madeira,Tondela,2,0
+Guimaraes,Rio Ave,3,1
+Boavista,Estoril,1,1
+Guimaraes,Maritimo,3,4
+Pacos Ferreira,Uniao Madeira,6,0
+Rio Ave,Arouca,3,1
+Setubal,Benfica,2,4
+Sp Lisbon,Moreirense,3,1
+Tondela,Sp Braga,0,1
+Academica,Belenenses,4,3
+Nacional,Porto,1,2
+Uniao Madeira,Benfica,0,0
+Arouca,Maritimo,4,1
+Estoril,Guimaraes,0,1
+Benfica,Rio Ave,3,1
+Moreirense,Nacional,2,0
+Porto,Academica,3,1
+Tondela,Setubal,1,3
+Uniao Madeira,Sp Lisbon,1,0
+Belenenses,Boavista,1,0
+Sp Braga,Pacos Ferreira,1,1
+Academica,Uniao Madeira,3,1
+Boavista,Moreirense,0,3
+Guimaraes,Benfica,0,1
+Maritimo,Estoril,1,1
+Nacional,Arouca,2,2
+Pacos Ferreira,Belenenses,2,2
+Setubal,Sp Braga,1,1
+Sp Lisbon,Porto,2,0
+Rio Ave,Tondela,2,3
+Arouca,Estoril,1,0
+Belenenses,Nacional,2,2
+Benfica,Maritimo,6,0
+Moreirense,Guimaraes,3,4
+Porto,Rio Ave,1,1
+Setubal,Sp Lisbon,0,6
+Sp Braga,Academica,3,0
+Tondela,Pacos Ferreira,0,2
+Uniao Madeira,Boavista,1,0
+Guimaraes,Arouca,2,2
+Academica,Tondela,2,1
+Boavista,Porto,0,5
+Estoril,Belenenses,2,0
+Maritimo,Moreirense,5,1
+Rio Ave,Uniao Madeira,1,0
+Sp Lisbon,Sp Braga,3,2
+Nacional,Benfica,1,4
+Pacos Ferreira,Setubal,2,1
+Sp Lisbon,Tondela,2,2
+Academica,Pacos Ferreira,1,1
+Estoril,Benfica,1,2
+Maritimo,Uniao Madeira,0,1
+Arouca,Moreirense,1,2
+Guimaraes,Porto,1,0
+Nacional,Sp Braga,2,3
+Rio Ave,Belenenses,1,2
+Boavista,Setubal,4,0
+Setubal,Academica,2,1
+Benfica,Arouca,3,1
+Moreirense,Estoril,1,3
+Pacos Ferreira,Sp Lisbon,1,3
+Uniao Madeira,Nacional,3,0
+Belenenses,Guimaraes,3,3
+Porto,Maritimo,1,0
+Sp Braga,Rio Ave,5,1
+Tondela,Boavista,1,2
+Guimaraes,Uniao Madeira,3,1
+Estoril,Porto,1,3
+Sp Lisbon,Academica,3,2
+Arouca,Pacos Ferreira,2,2
+Boavista,Sp Braga,0,0
+Moreirense,Benfica,1,4
+Nacional,Tondela,3,1
+Rio Ave,Setubal,2,1
+Maritimo,Belenenses,1,2
+Belenenses,Benfica,0,5
+Setubal,Maritimo,1,1
+Tondela,Guimaraes,1,1
+Academica,Nacional,2,2
+Pacos Ferreira,Boavista,0,1
+Porto,Arouca,1,2
+Uniao Madeira,Moreirense,0,1
+Sp Braga,Estoril,2,0
+Sp Lisbon,Rio Ave,0,0
+Benfica,Porto,1,2
+Guimaraes,Setubal,2,2
+Moreirense,Belenenses,2,3
+Nacional,Sp Lisbon,0,4
+Arouca,Uniao Madeira,3,0
+Boavista,Academica,0,0
+Estoril,Tondela,2,1
+Maritimo,Sp Braga,1,3
+Rio Ave,Pacos Ferreira,1,1
+Uniao Madeira,Estoril,1,1
+Academica,Rio Ave,0,2
+Pacos Ferreira,Benfica,1,3
+Belenenses,Arouca,0,2
+Porto,Moreirense,3,2
+Setubal,Nacional,1,1
+Sp Braga,Guimaraes,3,3
+Tondela,Maritimo,3,4
+Sp Lisbon,Boavista,2,0
+Nacional,Pacos Ferreira,3,0
+Arouca,Sp Braga,0,0
+Boavista,Rio Ave,1,2
+Estoril,Setubal,3,0
+Belenenses,Porto,1,2
+Maritimo,Academica,1,0
+Moreirense,Tondela,1,2
+Benfica,Uniao Madeira,2,0
+Guimaraes,Sp Lisbon,0,0
+Pacos Ferreira,Maritimo,2,2
+Sp Lisbon,Benfica,0,1
+Academica,Guimaraes,2,0
+Boavista,Nacional,0,1
+Setubal,Moreirense,0,1
+Sp Braga,Porto,3,1
+Tondela,Arouca,0,1
+Uniao Madeira,Belenenses,0,0
+Rio Ave,Estoril,1,3
+Maritimo,Boavista,0,3
+Estoril,Sp Lisbon,1,2
+Porto,Uniao Madeira,3,2
+Arouca,Setubal,1,0
+Belenenses,Sp Braga,3,0
+Guimaraes,Pacos Ferreira,0,1
+Moreirense,Academica,2,2
+Nacional,Rio Ave,1,0
+Benfica,Tondela,4,1
+Rio Ave,Maritimo,1,0
+Setubal,Porto,0,1
+Sp Lisbon,Arouca,5,1
+Academica,Estoril,0,3
+Boavista,Benfica,0,1
+Nacional,Guimaraes,3,2
+Pacos Ferreira,Moreirense,0,0
+Sp Braga,Uniao Madeira,2,0
+Tondela,Belenenses,2,2
+Benfica,Sp Braga,5,1
+Arouca,Academica,3,2
+Guimaraes,Boavista,1,1
+Maritimo,Nacional,2,0
+Estoril,Pacos Ferreira,1,0
+Moreirense,Rio Ave,0,1
+Uniao Madeira,Setubal,2,2
+Belenenses,Sp Lisbon,2,5
+Porto,Tondela,0,1
+Boavista,Arouca,0,0
+Academica,Benfica,1,2
+Sp Lisbon,Maritimo,3,1
+Nacional,Estoril,4,1
+Pacos Ferreira,Porto,1,0
+Setubal,Belenenses,0,1
+Sp Braga,Moreirense,1,1
+Tondela,Uniao Madeira,1,0
+Rio Ave,Guimaraes,2,0
+Arouca,Rio Ave,0,0
+Estoril,Boavista,1,0
+Moreirense,Sp Lisbon,0,1
+Belenenses,Academica,1,1
+Maritimo,Guimaraes,3,0
+Porto,Nacional,4,0
+Uniao Madeira,Pacos Ferreira,3,4
+Benfica,Setubal,2,1
+Sp Braga,Tondela,3,0
+Boavista,Belenenses,1,0
+Academica,Porto,1,2
+Pacos Ferreira,Sp Braga,1,0
+Sp Lisbon,Uniao Madeira,2,0
+Guimaraes,Estoril,1,1
+Maritimo,Arouca,1,2
+Nacional,Moreirense,0,1
+Rio Ave,Benfica,0,1
+Setubal,Tondela,0,1
+Benfica,Guimaraes,1,0
+Sp Braga,Setubal,3,2
+Belenenses,Pacos Ferreira,0,2
+Porto,Sp Lisbon,1,3
+Tondela,Rio Ave,1,1
+Arouca,Nacional,3,0
+Estoril,Maritimo,2,1
+Moreirense,Boavista,1,1
+Uniao Madeira,Academica,3,1
+Pacos Ferreira,Tondela,1,4
+Academica,Sp Braga,0,0
+Rio Ave,Porto,1,3
+Sp Lisbon,Setubal,5,0
+Boavista,Uniao Madeira,1,0
+Guimaraes,Moreirense,4,1
+Maritimo,Benfica,0,2
+Nacional,Belenenses,2,2
+Estoril,Arouca,1,1
+Arouca,Guimaraes,2,2
+Belenenses,Estoril,2,1
+Porto,Boavista,4,0
+Setubal,Pacos Ferreira,0,0
+Tondela,Academica,2,0
+Uniao Madeira,Rio Ave,1,2
+Benfica,Nacional,4,1
+Moreirense,Maritimo,2,1
+Sp Braga,Sp Lisbon,0,4

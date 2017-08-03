@@ -1,0 +1,306 @@
+Sp Lisbon,Belenenses,2,1
+Academica,Benfica,0,0
+Boavista,Setubal,0,0
+Gil Vicente,Maritimo,1,0
+Guimaraes,Naval,0,2
+Pacos Ferreira,Nacional,0,1
+Penafiel,Rio Ave,0,2
+Porto,Est Amadora,1,0
+Leiria,Sp Braga,0,1
+Naval,Porto,2,3
+Belenenses,Leiria,3,1
+Benfica,Gil Vicente,0,2
+Maritimo,Sp Lisbon,1,2
+Nacional,Academica,2,2
+Rio Ave,Guimaraes,3,1
+Setubal,Pacos Ferreira,0,1
+Sp Braga,Penafiel,1,0
+Est Amadora,Boavista,1,1
+Guimaraes,Sp Braga,0,2
+Porto,Rio Ave,3,0
+Sp Lisbon,Benfica,2,1
+Academica,Setubal,0,1
+Boavista,Pacos Ferreira,4,1
+Est Amadora,Naval,2,1
+Gil Vicente,Nacional,0,1
+Leiria,Maritimo,0,0
+Penafiel,Belenenses,0,3
+Naval,Boavista,2,2
+Benfica,Leiria,4,0
+Maritimo,Penafiel,2,2
+Pacos Ferreira,Academica,2,1
+Rio Ave,Est Amadora,2,1
+Setubal,Gil Vicente,1,0
+Sp Braga,Porto,0,0
+Belenenses,Guimaraes,3,1
+Nacional,Sp Lisbon,2,1
+Penafiel,Benfica,1,3
+Guimaraes,Maritimo,1,0
+Porto,Belenenses,2,0
+Est Amadora,Sp Braga,0,0
+Gil Vicente,Pacos Ferreira,2,0
+Leiria,Nacional,0,0
+Naval,Rio Ave,1,0
+Sp Lisbon,Setubal,1,0
+Boavista,Academica,2,1
+Belenenses,Est Amadora,0,2
+Rio Ave,Boavista,1,1
+Academica,Gil Vicente,2,0
+Maritimo,Porto,2,2
+Nacional,Penafiel,2,0
+Pacos Ferreira,Sp Lisbon,3,0
+Setubal,Leiria,2,0
+Benfica,Guimaraes,2,1
+Sp Braga,Naval,1,0
+Rio Ave,Sp Braga,1,2
+Guimaraes,Nacional,0,0
+Porto,Benfica,0,2
+Est Amadora,Maritimo,2,2
+Leiria,Pacos Ferreira,3,0
+Naval,Belenenses,2,1
+Penafiel,Setubal,0,1
+Sp Lisbon,Academica,0,1
+Boavista,Gil Vicente,2,0
+Belenenses,Rio Ave,1,2
+Benfica,Est Amadora,2,0
+Sp Braga,Boavista,1,0
+Academica,Leiria,1,3
+Gil Vicente,Sp Lisbon,2,2
+Maritimo,Naval,2,1
+Nacional,Porto,0,1
+Pacos Ferreira,Penafiel,2,2
+Setubal,Guimaraes,0,1
+Naval,Benfica,1,1
+Porto,Setubal,0,0
+Boavista,Sp Lisbon,2,2
+Est Amadora,Nacional,0,2
+Guimaraes,Pacos Ferreira,0,2
+Leiria,Gil Vicente,3,0
+Penafiel,Academica,1,0
+Rio Ave,Maritimo,2,2
+Sp Braga,Belenenses,2,0
+Sp Lisbon,Leiria,2,1
+Belenenses,Boavista,1,1
+Maritimo,Sp Braga,1,0
+Benfica,Rio Ave,2,2
+Gil Vicente,Penafiel,2,2
+Nacional,Naval,2,0
+Pacos Ferreira,Porto,0,1
+Setubal,Est Amadora,1,0
+Academica,Guimaraes,1,0
+Guimaraes,Gil Vicente,2,0
+Porto,Academica,5,1
+Sp Braga,Benfica,3,2
+Boavista,Leiria,2,0
+Est Amadora,Pacos Ferreira,0,0
+Naval,Setubal,0,3
+Penafiel,Sp Lisbon,0,1
+Rio Ave,Nacional,0,2
+Belenenses,Maritimo,0,1
+Nacional,Sp Braga,1,0
+Maritimo,Boavista,1,1
+Academica,Est Amadora,1,0
+Benfica,Belenenses,0,0
+Leiria,Penafiel,1,1
+Pacos Ferreira,Naval,3,1
+Setubal,Rio Ave,1,0
+Sp Lisbon,Guimaraes,2,0
+Gil Vicente,Porto,0,1
+Porto,Sp Lisbon,1,1
+Belenenses,Nacional,1,0
+Maritimo,Benfica,0,1
+Boavista,Penafiel,2,1
+Est Amadora,Gil Vicente,1,0
+Naval,Academica,0,1
+Rio Ave,Pacos Ferreira,2,2
+Sp Braga,Setubal,0,1
+Guimaraes,Leiria,0,3
+Sp Lisbon,Est Amadora,0,1
+Leiria,Porto,1,3
+Nacional,Maritimo,2,1
+Academica,Rio Ave,2,2
+Benfica,Boavista,1,0
+Gil Vicente,Naval,2,0
+Pacos Ferreira,Sp Braga,1,0
+Penafiel,Guimaraes,0,1
+Setubal,Belenenses,1,0
+Naval,Sp Lisbon,0,2
+Belenenses,Pacos Ferreira,2,0
+Benfica,Nacional,1,0
+Est Amadora,Leiria,1,2
+Maritimo,Setubal,1,0
+Porto,Penafiel,3,1
+Rio Ave,Gil Vicente,1,0
+Sp Braga,Academica,2,0
+Boavista,Guimaraes,1,1
+Sp Lisbon,Rio Ave,3,0
+Academica,Belenenses,0,1
+Gil Vicente,Sp Braga,2,1
+Leiria,Naval,2,1
+Pacos Ferreira,Maritimo,1,2
+Setubal,Benfica,0,1
+Boavista,Nacional,0,3
+Guimaraes,Porto,0,2
+Penafiel,Est Amadora,0,1
+Belenenses,Gil Vicente,0,2
+Nacional,Setubal,2,2
+Maritimo,Academica,2,2
+Naval,Penafiel,4,1
+Sp Braga,Sp Lisbon,3,2
+Benfica,Pacos Ferreira,2,0
+Est Amadora,Guimaraes,2,0
+Porto,Boavista,1,0
+Rio Ave,Leiria,1,2
+Belenenses,Sp Lisbon,0,1
+Sp Braga,Leiria,1,0
+Benfica,Academica,3,0
+Est Amadora,Porto,2,1
+Maritimo,Gil Vicente,1,1
+Nacional,Pacos Ferreira,2,2
+Naval,Guimaraes,0,0
+Rio Ave,Penafiel,2,0
+Setubal,Boavista,0,2
+Penafiel,Sp Braga,0,0
+Gil Vicente,Benfica,1,3
+Academica,Nacional,0,0
+Boavista,Est Amadora,2,1
+Guimaraes,Rio Ave,1,1
+Pacos Ferreira,Setubal,1,2
+Porto,Naval,1,0
+Sp Lisbon,Maritimo,1,1
+Leiria,Belenenses,2,2
+Pacos Ferreira,Boavista,0,1
+Benfica,Sp Lisbon,1,3
+Naval,Est Amadora,2,0
+Belenenses,Penafiel,5,0
+Maritimo,Leiria,3,0
+Nacional,Gil Vicente,2,0
+Rio Ave,Porto,0,0
+Sp Braga,Guimaraes,1,0
+Setubal,Academica,0,1
+Boavista,Naval,3,0
+Academica,Pacos Ferreira,3,0
+Leiria,Benfica,3,1
+Sp Lisbon,Nacional,1,0
+Est Amadora,Rio Ave,0,0
+Gil Vicente,Setubal,5,0
+Guimaraes,Belenenses,2,2
+Penafiel,Maritimo,3,2
+Porto,Sp Braga,1,1
+Academica,Boavista,0,2
+Belenenses,Porto,0,2
+Benfica,Penafiel,4,0
+Nacional,Leiria,1,4
+Pacos Ferreira,Gil Vicente,1,0
+Rio Ave,Naval,0,1
+Setubal,Sp Lisbon,1,2
+Sp Braga,Est Amadora,1,1
+Maritimo,Guimaraes,0,1
+Boavista,Rio Ave,2,1
+Guimaraes,Benfica,2,0
+Sp Lisbon,Pacos Ferreira,3,0
+Est Amadora,Belenenses,1,2
+Gil Vicente,Academica,4,3
+Naval,Sp Braga,0,1
+Penafiel,Nacional,1,2
+Porto,Maritimo,1,0
+Leiria,Setubal,0,2
+Gil Vicente,Boavista,0,1
+Academica,Sp Lisbon,0,3
+Nacional,Guimaraes,1,1
+Belenenses,Naval,2,3
+Benfica,Porto,1,0
+Maritimo,Est Amadora,1,0
+Pacos Ferreira,Leiria,1,1
+Setubal,Penafiel,2,0
+Sp Braga,Rio Ave,5,0
+Guimaraes,Setubal,4,0
+Boavista,Sp Braga,0,0
+Est Amadora,Benfica,1,2
+Naval,Maritimo,2,0
+Leiria,Academica,0,2
+Penafiel,Pacos Ferreira,2,2
+Porto,Nacional,3,0
+Sp Lisbon,Gil Vicente,2,0
+Rio Ave,Belenenses,2,1
+Setubal,Porto,0,2
+Academica,Penafiel,1,0
+Gil Vicente,Leiria,1,2
+Maritimo,Rio Ave,0,0
+Sp Lisbon,Boavista,1,0
+Benfica,Naval,0,0
+Nacional,Est Amadora,1,2
+Pacos Ferreira,Guimaraes,1,1
+Belenenses,Sp Braga,2,0
+Naval,Nacional,3,1
+Boavista,Belenenses,0,2
+Porto,Pacos Ferreira,3,0
+Est Amadora,Setubal,1,0
+Guimaraes,Academica,1,1
+Leiria,Sp Lisbon,0,1
+Penafiel,Gil Vicente,1,1
+Rio Ave,Benfica,0,1
+Sp Braga,Maritimo,2,0
+Nacional,Rio Ave,1,1
+Benfica,Sp Braga,1,0
+Maritimo,Belenenses,1,0
+Academica,Porto,0,1
+Gil Vicente,Guimaraes,1,1
+Pacos Ferreira,Est Amadora,2,1
+Setubal,Naval,4,1
+Sp Lisbon,Penafiel,2,0
+Leiria,Boavista,0,0
+Sp Braga,Nacional,1,0
+Belenenses,Benfica,1,2
+Guimaraes,Sp Lisbon,0,1
+Naval,Pacos Ferreira,1,0
+Boavista,Maritimo,1,1
+Est Amadora,Academica,3,2
+Penafiel,Leiria,1,1
+Porto,Gil Vicente,3,0
+Rio Ave,Setubal,1,0
+Nacional,Belenenses,4,0
+Leiria,Guimaraes,1,0
+Sp Lisbon,Porto,0,1
+Academica,Naval,2,2
+Benfica,Maritimo,2,2
+Gil Vicente,Est Amadora,1,1
+Pacos Ferreira,Rio Ave,2,1
+Setubal,Sp Braga,1,0
+Penafiel,Boavista,0,0
+Belenenses,Setubal,3,1
+Porto,Leiria,1,0
+Boavista,Benfica,0,2
+Est Amadora,Sp Lisbon,0,0
+Guimaraes,Penafiel,3,1
+Naval,Gil Vicente,1,4
+Rio Ave,Academica,1,4
+Maritimo,Nacional,2,0
+Sp Braga,Pacos Ferreira,2,3
+Guimaraes,Boavista,1,1
+Penafiel,Porto,0,1
+Gil Vicente,Rio Ave,1,0
+Leiria,Est Amadora,1,1
+Nacional,Benfica,1,1
+Pacos Ferreira,Belenenses,1,1
+Setubal,Maritimo,0,1
+Sp Lisbon,Naval,0,0
+Academica,Sp Braga,0,3
+Nacional,Boavista,1,0
+Belenenses,Academica,0,0
+Benfica,Setubal,1,0
+Est Amadora,Penafiel,1,0
+Maritimo,Pacos Ferreira,1,1
+Naval,Leiria,0,2
+Porto,Guimaraes,3,1
+Rio Ave,Sp Lisbon,1,3
+Sp Braga,Gil Vicente,1,1
+Boavista,Porto,1,1
+Setubal,Nacional,1,1
+Academica,Maritimo,2,2
+Gil Vicente,Belenenses,1,0
+Guimaraes,Est Amadora,0,1
+Leiria,Rio Ave,5,2
+Pacos Ferreira,Benfica,3,1
+Penafiel,Naval,0,1
+Sp Lisbon,Sp Braga,1,0
