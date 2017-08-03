@@ -6,6 +6,10 @@ import torch.nn.functional as F
 import torch.optim as optim
 import numpy
 
+"""
+Hit rate gets between 20% and 32%
+The model overfits quite often
+"""
 
 class Net(nn.Module):
 	def __init__(self):
