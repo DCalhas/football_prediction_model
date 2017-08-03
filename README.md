@@ -10,6 +10,8 @@ Good sites for football statistics:
 3. https://www.statbunker.com/
 4. http://publications.lib.chalmers.se/records/fulltext/250411/250411.pdf
 5. http://pytorch.org/
+6. https://github.com/jalapic/engsoccerdata/tree/master/data-raw
+7. O 6. e o zero a zero sao capazes de dar para um projeto inicial para ver como as coisas se comportam
 
 __Maybe using the data from the game Football Manager is not a bad idea__
 
