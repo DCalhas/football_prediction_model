@@ -44,7 +44,7 @@ for season in gamesPerSeason:
     with open(str(season[0][0]) + '.csv', 'w') as csvfile:
         spamwriter = csv.writer(csvfile, delimiter=',', quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for g in season:
-            spamwriter.writerow(g)
+            spamwriter.writerow([g[1], g[2], g[3], g[4]])
 
 
 # In[ ]:
