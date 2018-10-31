@@ -1,0 +1,380 @@
+2013,"Arsenal","Aston Villa",1,3,1
+2013,"Arsenal","Cardiff City",2,0,1
+2013,"Arsenal","Chelsea",0,0,1
+2013,"Arsenal","Crystal Palace",2,0,1
+2013,"Arsenal","Everton",1,1,1
+2013,"Arsenal","Fulham",2,0,1
+2013,"Arsenal","Hull City",2,0,1
+2013,"Arsenal","Liverpool",2,0,1
+2013,"Arsenal","Manchester City",1,1,1
+2013,"Arsenal","Manchester United",0,0,1
+2013,"Arsenal","Newcastle United",3,0,1
+2013,"Arsenal","Norwich City",4,1,1
+2013,"Arsenal","Southampton",2,0,1
+2013,"Arsenal","Stoke City",3,1,1
+2013,"Arsenal","Sunderland",4,1,1
+2013,"Arsenal","Swansea City",2,2,1
+2013,"Arsenal","Tottenham Hotspur",1,0,1
+2013,"Arsenal","West Bromwich Albion",1,0,1
+2013,"Arsenal","West Ham United",3,1,1
+2013,"Aston Villa","Arsenal",1,2,1
+2013,"Aston Villa","Cardiff City",2,0,1
+2013,"Aston Villa","Chelsea",1,0,1
+2013,"Aston Villa","Crystal Palace",0,1,1
+2013,"Aston Villa","Everton",0,2,1
+2013,"Aston Villa","Fulham",1,2,1
+2013,"Aston Villa","Hull City",3,1,1
+2013,"Aston Villa","Liverpool",0,1,1
+2013,"Aston Villa","Manchester City",3,2,1
+2013,"Aston Villa","Manchester United",0,3,1
+2013,"Aston Villa","Newcastle United",1,2,1
+2013,"Aston Villa","Norwich City",4,1,1
+2013,"Aston Villa","Southampton",0,0,1
+2013,"Aston Villa","Stoke City",1,4,1
+2013,"Aston Villa","Sunderland",0,0,1
+2013,"Aston Villa","Swansea City",1,1,1
+2013,"Aston Villa","Tottenham Hotspur",0,2,1
+2013,"Aston Villa","West Bromwich Albion",4,3,1
+2013,"Aston Villa","West Ham United",0,2,1
+2013,"Cardiff City","Arsenal",0,3,1
+2013,"Cardiff City","Aston Villa",0,0,1
+2013,"Cardiff City","Chelsea",1,2,1
+2013,"Cardiff City","Crystal Palace",0,3,1
+2013,"Cardiff City","Everton",0,0,1
+2013,"Cardiff City","Fulham",3,1,1
+2013,"Cardiff City","Hull City",0,4,1
+2013,"Cardiff City","Liverpool",3,6,1
+2013,"Cardiff City","Manchester City",3,2,1
+2013,"Cardiff City","Manchester United",2,2,1
+2013,"Cardiff City","Newcastle United",1,2,1
+2013,"Cardiff City","Norwich City",2,1,1
+2013,"Cardiff City","Southampton",0,3,1
+2013,"Cardiff City","Stoke City",1,1,1
+2013,"Cardiff City","Sunderland",2,2,1
+2013,"Cardiff City","Swansea City",1,0,1
+2013,"Cardiff City","Tottenham Hotspur",0,1,1
+2013,"Cardiff City","West Bromwich Albion",1,0,1
+2013,"Cardiff City","West Ham United",0,2,1
+2013,"Chelsea","Arsenal",6,0,1
+2013,"Chelsea","Aston Villa",2,1,1
+2013,"Chelsea","Cardiff City",4,1,1
+2013,"Chelsea","Crystal Palace",2,1,1
+2013,"Chelsea","Everton",1,0,1
+2013,"Chelsea","Fulham",2,0,1
+2013,"Chelsea","Hull City",2,0,1
+2013,"Chelsea","Liverpool",2,1,1
+2013,"Chelsea","Manchester City",2,1,1
+2013,"Chelsea","Manchester United",3,1,1
+2013,"Chelsea","Newcastle United",3,0,1
+2013,"Chelsea","Norwich City",0,0,1
+2013,"Chelsea","Southampton",3,1,1
+2013,"Chelsea","Stoke City",3,0,1
+2013,"Chelsea","Sunderland",1,2,1
+2013,"Chelsea","Swansea City",1,0,1
+2013,"Chelsea","Tottenham Hotspur",4,0,1
+2013,"Chelsea","West Bromwich Albion",2,2,1
+2013,"Chelsea","West Ham United",0,0,1
+2013,"Crystal Palace","Arsenal",0,2,1
+2013,"Crystal Palace","Aston Villa",1,0,1
+2013,"Crystal Palace","Cardiff City",2,0,1
+2013,"Crystal Palace","Chelsea",1,0,1
+2013,"Crystal Palace","Everton",0,0,1
+2013,"Crystal Palace","Fulham",1,4,1
+2013,"Crystal Palace","Hull City",1,0,1
+2013,"Crystal Palace","Liverpool",3,3,1
+2013,"Crystal Palace","Manchester City",0,2,1
+2013,"Crystal Palace","Manchester United",0,2,1
+2013,"Crystal Palace","Newcastle United",0,3,1
+2013,"Crystal Palace","Norwich City",1,1,1
+2013,"Crystal Palace","Southampton",0,1,1
+2013,"Crystal Palace","Stoke City",1,0,1
+2013,"Crystal Palace","Sunderland",3,1,1
+2013,"Crystal Palace","Swansea City",0,2,1
+2013,"Crystal Palace","Tottenham Hotspur",0,1,1
+2013,"Crystal Palace","West Bromwich Albion",3,1,1
+2013,"Crystal Palace","West Ham United",1,0,1
+2013,"Everton","Arsenal",3,0,1
+2013,"Everton","Aston Villa",2,1,1
+2013,"Everton","Cardiff City",2,1,1
+2013,"Everton","Chelsea",1,0,1
+2013,"Everton","Crystal Palace",2,3,1
+2013,"Everton","Fulham",4,1,1
+2013,"Everton","Hull City",2,1,1
+2013,"Everton","Liverpool",3,3,1
+2013,"Everton","Manchester City",2,3,1
+2013,"Everton","Manchester United",2,0,1
+2013,"Everton","Newcastle United",3,2,1
+2013,"Everton","Norwich City",2,0,1
+2013,"Everton","Southampton",2,1,1
+2013,"Everton","Stoke City",4,0,1
+2013,"Everton","Sunderland",0,1,1
+2013,"Everton","Swansea City",3,2,1
+2013,"Everton","Tottenham Hotspur",0,0,1
+2013,"Everton","West Bromwich Albion",0,0,1
+2013,"Everton","West Ham United",1,0,1
+2013,"Fulham","Arsenal",1,3,1
+2013,"Fulham","Aston Villa",2,0,1
+2013,"Fulham","Cardiff City",1,2,1
+2013,"Fulham","Chelsea",1,3,1
+2013,"Fulham","Crystal Palace",2,2,1
+2013,"Fulham","Everton",1,3,1
+2013,"Fulham","Hull City",2,2,1
+2013,"Fulham","Liverpool",2,3,1
+2013,"Fulham","Manchester City",2,4,1
+2013,"Fulham","Manchester United",1,3,1
+2013,"Fulham","Newcastle United",1,0,1
+2013,"Fulham","Norwich City",1,0,1
+2013,"Fulham","Southampton",0,3,1
+2013,"Fulham","Stoke City",1,0,1
+2013,"Fulham","Sunderland",1,4,1
+2013,"Fulham","Swansea City",1,2,1
+2013,"Fulham","Tottenham Hotspur",1,2,1
+2013,"Fulham","West Bromwich Albion",1,1,1
+2013,"Fulham","West Ham United",2,1,1
+2013,"Hull City","Arsenal",0,3,1
+2013,"Hull City","Aston Villa",0,0,1
+2013,"Hull City","Cardiff City",1,1,1
+2013,"Hull City","Chelsea",0,2,1
+2013,"Hull City","Crystal Palace",0,1,1
+2013,"Hull City","Everton",0,2,1
+2013,"Hull City","Fulham",6,0,1
+2013,"Hull City","Liverpool",3,1,1
+2013,"Hull City","Manchester City",0,2,1
+2013,"Hull City","Manchester United",2,3,1
+2013,"Hull City","Newcastle United",1,4,1
+2013,"Hull City","Norwich City",1,0,1
+2013,"Hull City","Southampton",0,1,1
+2013,"Hull City","Stoke City",0,0,1
+2013,"Hull City","Sunderland",1,0,1
+2013,"Hull City","Swansea City",1,0,1
+2013,"Hull City","Tottenham Hotspur",1,1,1
+2013,"Hull City","West Bromwich Albion",2,0,1
+2013,"Hull City","West Ham United",1,0,1
+2013,"Liverpool","Arsenal",5,1,1
+2013,"Liverpool","Aston Villa",2,2,1
+2013,"Liverpool","Cardiff City",3,1,1
+2013,"Liverpool","Chelsea",0,2,1
+2013,"Liverpool","Crystal Palace",3,1,1
+2013,"Liverpool","Everton",4,0,1
+2013,"Liverpool","Fulham",4,0,1
+2013,"Liverpool","Hull City",2,0,1
+2013,"Liverpool","Manchester City",3,2,1
+2013,"Liverpool","Manchester United",1,0,1
+2013,"Liverpool","Newcastle United",2,1,1
+2013,"Liverpool","Norwich City",5,1,1
+2013,"Liverpool","Southampton",0,1,1
+2013,"Liverpool","Stoke City",1,0,1
+2013,"Liverpool","Sunderland",2,1,1
+2013,"Liverpool","Swansea City",4,3,1
+2013,"Liverpool","Tottenham Hotspur",4,0,1
+2013,"Liverpool","West Bromwich Albion",4,1,1
+2013,"Liverpool","West Ham United",4,1,1
+2013,"Manchester City","Arsenal",6,3,1
+2013,"Manchester City","Aston Villa",4,0,1
+2013,"Manchester City","Cardiff City",4,2,1
+2013,"Manchester City","Chelsea",0,1,1
+2013,"Manchester City","Crystal Palace",1,0,1
+2013,"Manchester City","Everton",3,1,1
+2013,"Manchester City","Fulham",5,0,1
+2013,"Manchester City","Hull City",2,0,1
+2013,"Manchester City","Liverpool",2,1,1
+2013,"Manchester City","Manchester United",4,1,1
+2013,"Manchester City","Newcastle United",4,0,1
+2013,"Manchester City","Norwich City",7,0,1
+2013,"Manchester City","Southampton",4,1,1
+2013,"Manchester City","Stoke City",1,0,1
+2013,"Manchester City","Sunderland",2,2,1
+2013,"Manchester City","Swansea City",3,0,1
+2013,"Manchester City","Tottenham Hotspur",6,0,1
+2013,"Manchester City","West Bromwich Albion",3,1,1
+2013,"Manchester City","West Ham United",2,0,1
+2013,"Manchester United","Arsenal",1,0,1
+2013,"Manchester United","Aston Villa",4,1,1
+2013,"Manchester United","Cardiff City",2,0,1
+2013,"Manchester United","Chelsea",0,0,1
+2013,"Manchester United","Crystal Palace",2,0,1
+2013,"Manchester United","Everton",0,1,1
+2013,"Manchester United","Fulham",2,2,1
+2013,"Manchester United","Hull City",3,1,1
+2013,"Manchester United","Liverpool",0,3,1
+2013,"Manchester United","Manchester City",0,3,1
+2013,"Manchester United","Newcastle United",0,1,1
+2013,"Manchester United","Norwich City",4,0,1
+2013,"Manchester United","Southampton",1,1,1
+2013,"Manchester United","Stoke City",3,2,1
+2013,"Manchester United","Sunderland",0,1,1
+2013,"Manchester United","Swansea City",2,0,1
+2013,"Manchester United","Tottenham Hotspur",1,2,1
+2013,"Manchester United","West Bromwich Albion",1,2,1
+2013,"Manchester United","West Ham United",3,1,1
+2013,"Newcastle United","Arsenal",0,1,1
+2013,"Newcastle United","Aston Villa",1,0,1
+2013,"Newcastle United","Cardiff City",3,0,1
+2013,"Newcastle United","Chelsea",2,0,1
+2013,"Newcastle United","Crystal Palace",1,0,1
+2013,"Newcastle United","Everton",0,3,1
+2013,"Newcastle United","Fulham",1,0,1
+2013,"Newcastle United","Hull City",2,3,1
+2013,"Newcastle United","Liverpool",2,2,1
+2013,"Newcastle United","Manchester City",0,2,1
+2013,"Newcastle United","Manchester United",0,4,1
+2013,"Newcastle United","Norwich City",2,1,1
+2013,"Newcastle United","Southampton",1,1,1
+2013,"Newcastle United","Stoke City",5,1,1
+2013,"Newcastle United","Sunderland",0,3,1
+2013,"Newcastle United","Swansea City",1,2,1
+2013,"Newcastle United","Tottenham Hotspur",0,4,1
+2013,"Newcastle United","West Bromwich Albion",2,1,1
+2013,"Newcastle United","West Ham United",0,0,1
+2013,"Norwich City","Arsenal",0,2,1
+2013,"Norwich City","Aston Villa",0,1,1
+2013,"Norwich City","Cardiff City",0,0,1
+2013,"Norwich City","Chelsea",1,3,1
+2013,"Norwich City","Crystal Palace",1,0,1
+2013,"Norwich City","Everton",2,2,1
+2013,"Norwich City","Fulham",1,2,1
+2013,"Norwich City","Hull City",1,0,1
+2013,"Norwich City","Liverpool",2,3,1
+2013,"Norwich City","Manchester City",0,0,1
+2013,"Norwich City","Manchester United",0,1,1
+2013,"Norwich City","Newcastle United",0,0,1
+2013,"Norwich City","Southampton",1,0,1
+2013,"Norwich City","Stoke City",1,1,1
+2013,"Norwich City","Sunderland",2,0,1
+2013,"Norwich City","Swansea City",1,1,1
+2013,"Norwich City","Tottenham Hotspur",1,0,1
+2013,"Norwich City","West Bromwich Albion",0,1,1
+2013,"Norwich City","West Ham United",3,1,1
+2013,"Southampton","Arsenal",2,2,1
+2013,"Southampton","Aston Villa",2,3,1
+2013,"Southampton","Cardiff City",0,1,1
+2013,"Southampton","Chelsea",0,3,1
+2013,"Southampton","Crystal Palace",2,0,1
+2013,"Southampton","Everton",2,0,1
+2013,"Southampton","Fulham",2,0,1
+2013,"Southampton","Hull City",4,1,1
+2013,"Southampton","Liverpool",0,3,1
+2013,"Southampton","Manchester City",1,1,1
+2013,"Southampton","Manchester United",1,1,1
+2013,"Southampton","Newcastle United",4,0,1
+2013,"Southampton","Norwich City",4,2,1
+2013,"Southampton","Stoke City",2,2,1
+2013,"Southampton","Sunderland",1,1,1
+2013,"Southampton","Swansea City",2,0,1
+2013,"Southampton","Tottenham Hotspur",2,3,1
+2013,"Southampton","West Bromwich Albion",1,0,1
+2013,"Southampton","West Ham United",0,0,1
+2013,"Stoke City","Arsenal",1,0,1
+2013,"Stoke City","Aston Villa",2,1,1
+2013,"Stoke City","Cardiff City",0,0,1
+2013,"Stoke City","Chelsea",3,2,1
+2013,"Stoke City","Crystal Palace",2,1,1
+2013,"Stoke City","Everton",1,1,1
+2013,"Stoke City","Fulham",4,1,1
+2013,"Stoke City","Hull City",1,0,1
+2013,"Stoke City","Liverpool",3,5,1
+2013,"Stoke City","Manchester City",0,0,1
+2013,"Stoke City","Manchester United",2,1,1
+2013,"Stoke City","Newcastle United",1,0,1
+2013,"Stoke City","Norwich City",0,1,1
+2013,"Stoke City","Southampton",1,1,1
+2013,"Stoke City","Sunderland",2,0,1
+2013,"Stoke City","Swansea City",1,1,1
+2013,"Stoke City","Tottenham Hotspur",0,1,1
+2013,"Stoke City","West Bromwich Albion",0,0,1
+2013,"Stoke City","West Ham United",3,1,1
+2013,"Sunderland","Arsenal",1,3,1
+2013,"Sunderland","Aston Villa",0,1,1
+2013,"Sunderland","Cardiff City",4,0,1
+2013,"Sunderland","Chelsea",3,4,1
+2013,"Sunderland","Crystal Palace",0,0,1
+2013,"Sunderland","Everton",0,1,1
+2013,"Sunderland","Fulham",0,1,1
+2013,"Sunderland","Hull City",0,2,1
+2013,"Sunderland","Liverpool",1,3,1
+2013,"Sunderland","Manchester City",1,0,1
+2013,"Sunderland","Manchester United",1,2,1
+2013,"Sunderland","Newcastle United",2,1,1
+2013,"Sunderland","Norwich City",0,0,1
+2013,"Sunderland","Southampton",2,2,1
+2013,"Sunderland","Stoke City",1,0,1
+2013,"Sunderland","Swansea City",1,3,1
+2013,"Sunderland","Tottenham Hotspur",1,2,1
+2013,"Sunderland","West Bromwich Albion",2,0,1
+2013,"Sunderland","West Ham United",1,2,1
+2013,"Swansea City","Arsenal",1,2,1
+2013,"Swansea City","Aston Villa",4,1,1
+2013,"Swansea City","Cardiff City",3,0,1
+2013,"Swansea City","Chelsea",0,1,1
+2013,"Swansea City","Crystal Palace",1,1,1
+2013,"Swansea City","Everton",1,2,1
+2013,"Swansea City","Fulham",2,0,1
+2013,"Swansea City","Hull City",1,1,1
+2013,"Swansea City","Liverpool",2,2,1
+2013,"Swansea City","Manchester City",2,3,1
+2013,"Swansea City","Manchester United",1,4,1
+2013,"Swansea City","Newcastle United",3,0,1
+2013,"Swansea City","Norwich City",3,0,1
+2013,"Swansea City","Southampton",0,1,1
+2013,"Swansea City","Stoke City",3,3,1
+2013,"Swansea City","Sunderland",4,0,1
+2013,"Swansea City","Tottenham Hotspur",1,3,1
+2013,"Swansea City","West Bromwich Albion",1,2,1
+2013,"Swansea City","West Ham United",0,0,1
+2013,"Tottenham Hotspur","Arsenal",0,1,1
+2013,"Tottenham Hotspur","Aston Villa",3,0,1
+2013,"Tottenham Hotspur","Cardiff City",1,0,1
+2013,"Tottenham Hotspur","Chelsea",1,1,1
+2013,"Tottenham Hotspur","Crystal Palace",2,0,1
+2013,"Tottenham Hotspur","Everton",1,0,1
+2013,"Tottenham Hotspur","Fulham",3,1,1
+2013,"Tottenham Hotspur","Hull City",1,0,1
+2013,"Tottenham Hotspur","Liverpool",0,5,1
+2013,"Tottenham Hotspur","Manchester City",1,5,1
+2013,"Tottenham Hotspur","Manchester United",2,2,1
+2013,"Tottenham Hotspur","Newcastle United",0,1,1
+2013,"Tottenham Hotspur","Norwich City",2,0,1
+2013,"Tottenham Hotspur","Southampton",3,2,1
+2013,"Tottenham Hotspur","Stoke City",3,0,1
+2013,"Tottenham Hotspur","Sunderland",5,1,1
+2013,"Tottenham Hotspur","Swansea City",1,0,1
+2013,"Tottenham Hotspur","West Bromwich Albion",1,1,1
+2013,"Tottenham Hotspur","West Ham United",0,3,1
+2013,"West Bromwich Albion","Arsenal",1,1,1
+2013,"West Bromwich Albion","Aston Villa",2,2,1
+2013,"West Bromwich Albion","Cardiff City",3,3,1
+2013,"West Bromwich Albion","Chelsea",1,1,1
+2013,"West Bromwich Albion","Crystal Palace",2,0,1
+2013,"West Bromwich Albion","Everton",1,1,1
+2013,"West Bromwich Albion","Fulham",1,1,1
+2013,"West Bromwich Albion","Hull City",1,1,1
+2013,"West Bromwich Albion","Liverpool",1,1,1
+2013,"West Bromwich Albion","Manchester City",2,3,1
+2013,"West Bromwich Albion","Manchester United",0,3,1
+2013,"West Bromwich Albion","Newcastle United",1,0,1
+2013,"West Bromwich Albion","Norwich City",0,2,1
+2013,"West Bromwich Albion","Southampton",0,1,1
+2013,"West Bromwich Albion","Stoke City",1,2,1
+2013,"West Bromwich Albion","Sunderland",3,0,1
+2013,"West Bromwich Albion","Swansea City",0,2,1
+2013,"West Bromwich Albion","Tottenham Hotspur",3,3,1
+2013,"West Bromwich Albion","West Ham United",1,0,1
+2013,"West Ham United","Arsenal",1,3,1
+2013,"West Ham United","Aston Villa",0,0,1
+2013,"West Ham United","Cardiff City",2,0,1
+2013,"West Ham United","Chelsea",0,3,1
+2013,"West Ham United","Crystal Palace",0,1,1
+2013,"West Ham United","Everton",2,3,1
+2013,"West Ham United","Fulham",3,0,1
+2013,"West Ham United","Hull City",2,1,1
+2013,"West Ham United","Liverpool",1,2,1
+2013,"West Ham United","Manchester City",1,3,1
+2013,"West Ham United","Manchester United",0,2,1
+2013,"West Ham United","Newcastle United",1,3,1
+2013,"West Ham United","Norwich City",2,0,1
+2013,"West Ham United","Southampton",3,1,1
+2013,"West Ham United","Stoke City",0,1,1
+2013,"West Ham United","Sunderland",0,0,1
+2013,"West Ham United","Swansea City",2,0,1
+2013,"West Ham United","Tottenham Hotspur",2,0,1
+2013,"West Ham United","West Bromwich Albion",3,3,1
